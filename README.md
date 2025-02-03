@@ -1,4 +1,4 @@
-# Challengeamigosecreto
+# Challenge amigo secreto
 ### Este challenge fue requerido con ciertas funcionalidades espesificas: 
 - Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 - Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
@@ -13,4 +13,5 @@
 - <img width="466" alt="Image" src="https://github.com/user-attachments/assets/cb9dd630-c564-4ef7-8ff8-2057228b1bd6" />
 
 - Para validar que el usuario haya ingresado nombres validos utilice el condicionante if
-- 
+- <img width="327" alt="Image" src="https://github.com/user-attachments/assets/a5b84d8a-07c9-48a3-9935-51f728054a10" />
+- Para que el usuario visualizara los nombres de sus amigos utilice un console.log que recibe los nombres ingresados por el usuario
