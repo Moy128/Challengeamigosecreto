@@ -7,3 +7,10 @@
 
 ### Las cuales fui desarrollando de la siguiente manera:
 - Comence declarando una variable de tipo array, que almacenará los nombres de los amigos ingresados.
+<img width="235" alt="Image" src="https://github.com/user-attachments/assets/0c2bb253-bf58-44ab-a0f4-54d141066ef3" />
+
+- Seguido desarrolle una funcion que permitiera al usuario ingresar un nombre en el campo de texto y añadirlo a la lista de amigos creada anteriormente.
+- <img width="466" alt="Image" src="https://github.com/user-attachments/assets/cb9dd630-c564-4ef7-8ff8-2057228b1bd6" />
+
+- Para validar que el usuario haya ingresado nombres validos utilice el condicionante if
+- 
