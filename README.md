@@ -17,4 +17,5 @@
 - Para que el usuario visualizara los nombres de sus amigos utilice un console.log que recibe los nombres ingresados por el usuario
 - <img width="327" alt="Image" src="https://github.com/user-attachments/assets/a5b84d8a-07c9-48a3-9935-51f728054a10" />
 - Y para la funcion de sortear el nombre del amigo secreto utilice un math.random
-- 
+- <img width="327" alt="Image" src="https://github.com/user-attachments/assets/a5b84d8a-07c9-48a3-9935-51f728054a10" />
+
