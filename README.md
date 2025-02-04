@@ -27,6 +27,8 @@
 - Añadimos los nombres de nuestros amigos
 - <img width="979" alt="Image" src="https://github.com/user-attachments/assets/1a98f273-3b19-4cd0-83eb-45cfd826f59a" />
 - Despues de añadir todos los nobres que querramos  incluir a nuestro juego
+- <img width="990" alt="Image" src="https://github.com/user-attachments/assets/3a762dcd-73b0-4337-a3c4-d5a8a14d8273" />
+- Ahora sorteamos el nombre de nuestro amigo secreto
 - 
 
 
