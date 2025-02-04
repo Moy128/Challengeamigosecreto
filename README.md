@@ -21,6 +21,7 @@
 
 ### ¿Para que sirve esta aplicacion?
 - Se ponen a prueba los conocimientos adquiridos en el curso de logica de programacion de ALURA LATAM.
+
 - Cumple con los requerimientos solicitados en el challenge  
 
 ### Acontinuacion un ejemplo de como funciona:
@@ -32,4 +33,4 @@
 - <img width="997" alt="Image" src="https://github.com/user-attachments/assets/24a016f0-edfb-499c-ab74-636bdf998ddf" />
 - Finalmente nuestro juego funciono correctamente, nos imprimio los nombres de nuestro amigos elegidos, y escogio alguno al azar.
 - Si el usuario no ingresa un nombre valido nos mostrara una alerta indicando que ingrese datos validos
-- 
+- <img width="997" alt="Image" src="https://github.com/user-attachments/assets/24a016f0-edfb-499c-ab74-636bdf998ddf" />
