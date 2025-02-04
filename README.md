@@ -29,6 +29,7 @@
 - Despues de añadir todos los nobres que querramos  incluir a nuestro juego
 - <img width="990" alt="Image" src="https://github.com/user-attachments/assets/3a762dcd-73b0-4337-a3c4-d5a8a14d8273" />
 - Ahora sorteamos el nombre de nuestro amigo secreto
+- <img width="997" alt="Image" src="https://github.com/user-attachments/assets/24a016f0-edfb-499c-ab74-636bdf998ddf" />
+- Finalmente nuestro juego funciono correctamente, nos imprimio los nombres de nuestro amigos elegidos, y escogio alguno al azar.
+- Si el usuario no ingresa un nombre valido nos mostrara una alerta indicando que ingrese datos validos
 - 
-
-
