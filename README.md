@@ -24,5 +24,9 @@
 - Cumple con los requerimientos solicitados en el challenge  
 
 ### Acontinuacion un ejemplo de como funciona:
+- Añadimos los nombres de nuestros amigos
+- <img width="979" alt="Image" src="https://github.com/user-attachments/assets/1a98f273-3b19-4cd0-83eb-45cfd826f59a" />
+- Despues de añadir todos los nobres que querramos  incluir a nuestro juego
+- 
 
 
