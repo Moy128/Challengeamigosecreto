@@ -19,3 +19,10 @@
 - Y para la funcion de sortear el nombre del amigo secreto utilice un math.random
 - <img width="327" alt="Image" src="https://github.com/user-attachments/assets/a5b84d8a-07c9-48a3-9935-51f728054a10" />
 
+### ¿Para que sirve esta aplicacion?
+- Se ponen a prueba los conocimientos adquiridos en el curso de logica de programacion de ALURA LATAM.
+- Cumple con los requerimientos solicitados en el challenge  
+
+### Acontinuacion un ejemplo de como funciona:
+
+
